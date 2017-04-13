@@ -21,6 +21,6 @@
   },
   "scripts": {
     "predeploy": "hexo generate --path='.'",
-    "deploy": "gh-pages -b master -d ."
+    "deploy": "gh-pages -d public"
   }
 }
